@@ -11,5 +11,11 @@ class TDCF:
         self.testMatrix = testMatrix
         self.configHandler = configHandler
 
+    def initModel(self):
+        pass
+
+    def buildModel(self):
+        pass
+
 
 
